@@ -1,5 +1,5 @@
-# node-mongo-registration-login-api
+# react-redux-registration-login-example
 
-NodeJS + MongoDB API for User Management, Authentication and Registration
+React + Redux - User Registration and Login Tutorial & Example
 
-For documentation and instructions check out http://jasonwatmore.com/post/2018/06/14/nodejs-mongodb-simple-api-for-authentication-registration-and-user-management
+For documentation and further details go to https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example
